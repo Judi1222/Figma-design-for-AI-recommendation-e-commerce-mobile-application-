@@ -27,7 +27,7 @@ Initial testing showed positive user engagement, with minor refinements suggeste
 
 Zemenay aims to redefine online shopping in Ethiopia through a focus on user needs and personalized experiences.
 
-Group memebers
+Group members
 1. solomon Belay  ETS1186/13
 2. Yodit Tamirat  ETS1330/13
 3. Yididiya Amare ETS1312/12
