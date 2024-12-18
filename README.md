@@ -30,6 +30,6 @@ Zemenay aims to redefine online shopping in Ethiopia through a focus on user nee
 Group members
 1. solomon Belay  ETS1186/13
 2. Yodit Tamirat  ETS1330/13
-3. Yididiya Amare ETS1312/12
+3. Yididiya Amare ETS1312/13
 4. Yihune Zewdie ETS1318/13
 5. Yeabsira Yonas ETS1302/13
