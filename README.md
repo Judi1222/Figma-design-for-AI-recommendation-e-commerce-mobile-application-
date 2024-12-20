@@ -1,6 +1,6 @@
 # Figma-design-for-AI-recommendation-e-commerce-mobile-application-
 
-LINK TO FIGMA: https://www.figma.com/proto/ACE7ZPkk28FTo2qmdsqdc9/Final-Design?node-id=1-2&starting-point-node-id=1%3A2&t=bQ9GKUacdJrGkDod-1
+FIGMA LINK: https://www.figma.com/proto/ACE7ZPkk28FTo2qmdsqdc9/Final-Design?node-id=1-2&starting-point-node-id=1%3A2&t=bQ9GKUacdJrGkDod-1
 
 # Zemenay - README File
 
