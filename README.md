@@ -2,6 +2,8 @@
 
 FIGMA LINK: https://www.figma.com/proto/ACE7ZPkk28FTo2qmdsqdc9/Final-Design?node-id=1-2&starting-point-node-id=1%3A2&t=bQ9GKUacdJrGkDod-1
 
+Presentation Slide LINK: https://gamma.app/docs/Zemenay-Personalized-Shopping-Experience-ouj3obr1875wbls
+
 # Zemenay - README File
 
 ## Overview
